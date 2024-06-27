@@ -29,13 +29,15 @@ Model Architecture
 The models used in this project are machine learning models
 
 Results
+
 Accuracy and Loss
+
 Confusion Matrix
 
 
 For any questions or inquiries, please contact:
 
-Name: Your Name
-Email: your.email@example.com
-GitHub: yourusername
+Name: Prajna
+Email: prajnaasritha@gmail.com
+GitHub: prajna1803
 
